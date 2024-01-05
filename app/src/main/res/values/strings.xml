@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">smart-auth-android-part</string>
+    <string name="title_activity_sign_upactivity">SignUPActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_employer">EmployerActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_history_details_view_model">HistoryDetailsViewModel</string>
+    <string name="title_activity_add_employer">AddEmployerActivity</string>
+    <string name="title_activity_employer_details">EmployerDetails</string>
+    <string name="title_activity_stream">StreamActivity</string>
+    <string name="title_activity_admins_managment">AdminsManagmentActivity</string>
+    <string name="title_activity_logout">LogoutActivity</string>
+</resources>
